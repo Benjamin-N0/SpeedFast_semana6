@@ -4,7 +4,7 @@
 - **Nombre completo:** Benjamin Norambuena
 - **Carrera:** Analista Programador Computacional
 
-##ESTE PROYECTO REQUIERE EL PLUGIN SWING UI DESIGNER
+## ESTE PROYECTO REQUIERE EL PLUGIN SWING UI DESIGNER
 
 ## Descripcion de esta semana
 Durante esta sexta semana desarrollarás una actividad formativa individual titulada "Diseñando interfaces gráficas para aplicaciones en Java". En esta tarea deberás implementar ventanas gráficas utilizando JFrame y otros componentes de Swing para permitir la interacción directa del usuario con los datos del sistema.
